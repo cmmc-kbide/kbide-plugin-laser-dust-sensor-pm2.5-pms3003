@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-laser-dust-sensor-pm2.5-pms3003",
+  "title": "laser-dust-sensor-pm2.5-pms3003",
+  "keywords": "laser-dust-sensor-pm2.5-pms3003, esp32, esp8266, arduino",
+  "description": "laser-dust-sensor-pm2.5-pms3003 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-laser-dust-sensor-pm2.5-pms3003/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-laser-dust-sensor-pm2.5-pms3003/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
